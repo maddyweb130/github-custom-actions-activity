@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog.
+GitHub Actions can run custom Docker containers to automate tasks.
+Counting vowels in this file is the goal of the activity.
